@@ -2,13 +2,13 @@
 
 Esta é uma landing page sobre o filme do Mario para fins educacionais.
 
-### Construído com
+## Construído com
 
 - Marcação semântica HTML5 
 - Propriedades personalizadas do CSS
 - Javascript
 
-### Recursos úteis
+## Recursos úteis
 
 - [Responsive viewer](https://responsiveviewer.org/) - Me ajudou a visualizar a responsividade do projeto para diferentes tamanhos de tela.
 
