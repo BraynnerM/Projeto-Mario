@@ -1,4 +1,4 @@
-# Projet-Mario
+# Projeto-Mario
 
 Esta é uma landing page sobre o filme do Mario para fins educacionais.
 
