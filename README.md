@@ -2,6 +2,12 @@
 
 Esta é uma landing page sobre o filme do Mario para fins educacionais.
 
+### Links
+
+- URL da solução: [Github](https://github.com/BraynnerM/Projeto-Mario)
+-  URL do site no Github Pages: [Projeto Mario](https://braynnerm.github.io/Projeto-Mario/)
+
+
 ## Construído com
 
 - Marcação semântica HTML5 
